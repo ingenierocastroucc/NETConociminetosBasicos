@@ -1,0 +1,14 @@
+C:\NET\net\bin\release\net8.0\NET.exe
+C:\NET\net\bin\release\net8.0\NET.deps.json
+C:\NET\net\bin\release\net8.0\NET.runtimeconfig.json
+C:\NET\net\bin\release\net8.0\NET.dll
+C:\NET\net\bin\release\net8.0\NET.pdb
+C:\NET\net\obj\release\net8.0\NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\NET\net\obj\release\net8.0\NET.AssemblyInfoInputs.cache
+C:\NET\net\obj\release\net8.0\NET.AssemblyInfo.cs
+C:\NET\net\obj\release\net8.0\NET.csproj.CoreCompileInputs.cache
+C:\NET\net\obj\release\net8.0\NET.dll
+C:\NET\net\obj\release\net8.0\refint\NET.dll
+C:\NET\net\obj\release\net8.0\NET.pdb
+C:\NET\net\obj\release\net8.0\NET.genruntimeconfig.cache
+C:\NET\net\obj\release\net8.0\ref\NET.dll
